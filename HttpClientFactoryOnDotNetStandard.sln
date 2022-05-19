@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositories", "Repositories\Repositories.csproj", "{BBC961EA-F28C-42C2-A1B5-856BBF3D3068}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpClientFactoryOnDotNetStandard", "HttpClientFactoryOnDotNetStandard\HttpClientFactoryOnDotNetStandard.csproj", "{6B28523E-26E7-4CC1-8D57-F7881B854825}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBC961EA-F28C-42C2-A1B5-856BBF3D3068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC961EA-F28C-42C2-A1B5-856BBF3D3068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC961EA-F28C-42C2-A1B5-856BBF3D3068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC961EA-F28C-42C2-A1B5-856BBF3D3068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B28523E-26E7-4CC1-8D57-F7881B854825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B28523E-26E7-4CC1-8D57-F7881B854825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B28523E-26E7-4CC1-8D57-F7881B854825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B28523E-26E7-4CC1-8D57-F7881B854825}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A26ED5A-5185-482E-AC7B-B8D882CA04F3}
+	EndGlobalSection
+EndGlobal
